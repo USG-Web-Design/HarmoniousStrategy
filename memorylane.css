@@ -1,0 +1,190 @@
+div.mainpage p{
+	text-align: left;
+	font-size: 18px;
+}
+
+div.mainpage nav{
+    overflow: hidden;
+}
+
+div.mainpage nav li{
+    list-style-type: none;
+    float: left;
+ 
+    
+}
+
+div.vancouver{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 100%;
+  text-align: center;
+}
+
+div.steamclock{
+    justify-content:space-around;
+}
+
+div.long img{
+    height: 200px;
+  width: 50%;
+}
+div.vancouver img {
+    border-radius: 8px;
+  width: 40%;
+  height: 30%;
+margin-left: auto;
+  margin-right: auto;
+}
+
+div.vancouver p{
+    font-size: 30px;
+    font-family: Papyrus;
+}
+
+.funnypictures {
+    text-align: center;
+}
+
+
+div.mainpage nav a{
+    font-size:16px;
+    display: block;
+    text-decoration:none;
+    color:#f9f9f9;
+    margin: 14px 16px 0px;
+    transition:0.3s;
+}
+
+div.baby img {
+     width: 40%;
+  height: 30%;
+}
+
+div.mainpage nav a:hover{
+    border-bottom:3px solid #f9f9f9;
+}
+
+#header{
+    width:100%;
+    overflow:hidden;
+    background:#BBBBBB;
+    padding: 6px 0px;
+    font-family:serif;
+}
+
+#header h1{
+    float: left;
+    color: #ffffff;
+    margin-right: 50px;
+    
+}
+
+
+
+div.mainpage img{
+	width:200px;
+	height:200px;
+	object-fit:cover;
+	border-radius:50%;
+        margin :20px;
+     padding :30px;
+    
+}
+
+.main-visual {
+	 width:300%;
+    height:900px;
+    background-image:url(four.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+div.mainpage p {
+  background-image: url('wallpaper2.jpeg');
+}
+
+body{
+	background-color: #FAF0E6;
+	
+}
+
+div.picnic {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 250px;
+}
+
+div.picnic:hover {
+  border: 1px solid #777;
+}
+
+div.picnic img {
+  width: 100%;
+  height: auto;
+  justify-content:space-around;
+
+}
+
+div.baby{
+    text-align: center;
+}
+
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+div.funnypictures{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.funnypictures:hover {
+  border: 1px solid #777;
+}
+
+div.funnypictures img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+.intro{
+	color: #BC8F8F;
+}
+
+.background{
+	color: #BC8F8F;
+}
+
+div.mainpage h2{
+	color: #696969;
+}
+
+div.vancouver table {
+     margin-left: auto;
+  margin-right: auto;
+	border: solid;
+    width: 35%;
+}
+
+
+}
+
+div.vancouver td {
+	border: dashed;
+}
+
+div.vancouver th {
+	border: dotted;
+    height: 35px;
+}
